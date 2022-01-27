@@ -1,3 +1,3 @@
-♥️:Music:
-😌:Travel:
-🔥:Food:
+:heart:
+:+1:
+
