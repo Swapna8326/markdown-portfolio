@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*i am swapna* _i am new here_ **i love music** ,__travelling__
+ _i am a **student** at ukf__
